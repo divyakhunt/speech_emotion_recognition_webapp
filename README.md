@@ -78,11 +78,11 @@ Open the displayed URL in your browser to interact with the app.
 
 ---
 
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
+## 📜 License  
+This project is open-source and available under the MIT License.  
 
 ---
 
-## 🙌 Acknowledgements
-- [Gradio](https://www.gradio.app/) for building quick ML web interfaces
-- [Hugging Face Spaces](https://huggingface.co/spaces) for free model hosting
+## ❤️ If You Like This Project  
+If you found this project helpful or interesting, please give it a ⭐ on GitHub — it really helps to support the work and motivate future updates!
+
