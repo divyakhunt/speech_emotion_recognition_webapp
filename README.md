@@ -29,10 +29,10 @@ Try the live app here:
 
 ---
 
-## 📊 Model Training
-The deep learning model was trained using a dataset of labeled speech samples.  
+## 🧠 Model Training  
+The deep learning model was trained on a dataset of labeled speech samples.  
 If you want to see the **model training process** and explore the `.ipynb` notebook, visit:  
-[Model Training Repository](https://github.com/divyakhunt/speech_emotion_recognition)
+👉 [https://github.com/divyakhunt/speech_emotion_recognition](https://github.com/divyakhunt/speech_emotion_recognition)
 
 ---
 
@@ -67,7 +67,7 @@ Open the displayed URL in your browser to interact with the app.
 
 ---
 
-## 🎯 Supported Emotions
+## 📊 Supported Emotions
 - 😀 Happy  
 - 😢 Sad  
 - 😨 Fear  
