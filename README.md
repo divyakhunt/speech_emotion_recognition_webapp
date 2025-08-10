@@ -10,7 +10,7 @@ The app is built using **Python**, **Gradio**, and a trained deep learning model
 
 ## 🚀 Live Demo
 Try the live app here:  
-👉 [https://huggingface.co/spaces/divyakhunt/speech-emotion-recognition](https://huggingface.co/spaces/divyakhunt/speech-emotion-recognition)
+👉 [https://divyakhunt-speech-emotion-recognition.hf.space/](https://divyakhunt-speech-emotion-recognition.hf.space/)
 
 ---
 
